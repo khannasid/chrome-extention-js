@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "chrome-extention",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "notes.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
